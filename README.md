@@ -8,4 +8,5 @@ The data set has 595212 observations with 59 features.
 **Tasks**
 
 Task 1:- Created a predictive model which will help the insurance marketing team to know which customer will buy the product.
+
 Task 2:- Suggestions to the Insurance market team to make  customers buy the product.
